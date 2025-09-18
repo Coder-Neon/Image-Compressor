@@ -74,7 +74,7 @@ function App() {
             alt="Logo"
             className=" h-10"
           />
-          <span className="text-xl font-bold">My Compressor</span>
+          
         </div>
 
         <a
